@@ -1,1 +1,1 @@
-# Assignment-Code-Along-Progress-1
+# Assignment-Code-Along-Progress
